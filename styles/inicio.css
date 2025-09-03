@@ -106,7 +106,7 @@ footer {
 /* --------------------------------------------------------
 fondo */
 .fondo {
-    background-image: url(/frotend/Proyecto_Graphel/assets/images/cabecera.jpg);
+    background-image: url(../assets/images/cabecera.jpg);
     width: 100%;
     height: 300px;
     background-size: cover;
